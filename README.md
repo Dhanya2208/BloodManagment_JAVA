@@ -26,7 +26,7 @@ Database: MySQL
 
 Connectivity: JDBC
 
-IDE: Eclipse / IntelliJ / NetBeans
+IDE: Eclipse 
 
 📂 Project Features
 👤 Donor Management
@@ -126,4 +126,4 @@ Add Donor Form
 
 Donor Details Table
 
-Blood Availability Table****
+Blood Availability Table
