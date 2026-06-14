@@ -7,8 +7,8 @@ import java.sql.SQLException;
 public class DatabaseConnection {
 
     private static final String URL = "jdbc:mysql://localhost:3306/blood_donor_db"; // Update with your database URL
-    private static final String USER = "root"; // Update with your database username
-    private static final String PASSWORD = "Dhanya@2005"; // Update with your database password
+    private static final String USER = "***"; // Update with your database username
+    private static final String PASSWORD = "*****"; // Update with your database password
 
     public static Connection getConnection() throws SQLException {
         Connection connection = null;
